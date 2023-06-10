@@ -1,0 +1,24 @@
+.qwerty_style_1 {
+    border: 4px double gainsboro;
+    padding: 25px;
+    border-radius: 30px 10px;
+    background-color: rgb(0, 0, 255);
+    color: rgb(255, 255, 255);
+    }
+.qwerty_style_2 {
+        border: 4px double gainsboro;
+        padding: 25px;
+        border-radius: 13em 0.5em/1em 0.5em;
+        background-color: rgb(255, 0, 0);
+        color: rgb(68, 10, 70);
+        }
+.qwerty_style_3 {
+        border: 4px double gainsboro;
+        padding: 25px;
+        border-radius: 13em 0.5em/1em 0.5em;
+        background-color: rgb(0, 255, 0);
+        color: rgb(68, 10, 70);
+        }
+.ppp {
+        text-indent: 20px;
+        }
